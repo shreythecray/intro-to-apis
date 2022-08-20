@@ -38,6 +38,5 @@ async function send_notification() {
 }
 
 send_notification()
-```
 
-// FINAL PROJECT: send a notification with 
+// FINAL PROJECT: send a notification in morse code using both APIs
